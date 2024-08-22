@@ -1,7 +1,7 @@
 ## 🧑‍💻 Profile :
 ### Olá, Me chamo Everton Lohan. ✌️
 
-Discente do curso Ciência da Computação na Universidade Federal do Cariri (UFCA), atuo como programador na parte do front-end(utilizando HTML , CSS e JavaScript) , interface do usuário e busco a habilidades de desenvoolver jogos.
+Discente do curso Ciência da Computação na Universidade Federal do Cariri (UFCA), atuo como programador na parte do front-end(utilizando HTML , CSS e JavaScript) , interface do usuário e busco aprimorar a habilidade de desenvoolver jogos.
 
 ## 🌐 Socials :
 
