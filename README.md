@@ -1,14 +1,16 @@
-## 🧑‍💻 Profile :
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7e98d5&height=120&section=header"/>
+
+# 🧑‍💻 Profile :
 ### Olá, Me chamo Everton Lohan. ✌️
 
 Discente do curso Ciência da Computação na Universidade Federal do Cariri (UFCA), atuo como programador na parte do front-end(utilizando HTML , CSS e JavaScript) , interface do usuário e busco aprimorar a habilidade de desenvolver jogos.
 
-## 🌐 Socials :
+# 🌐 Socials :
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ev3rton__/) 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ev3rton___)
 
-## 💻 Developer :
+# 💻 Developer :
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -17,8 +19,11 @@ Discente do curso Ciência da Computação na Universidade Federal do Cariri (UF
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 
-### 📊 Github :
+## 📊 Github :
 
-![ev3rton0's GitHub stats](https://github-readme-stats.vercel.app/api?username=ev3rton0&show_icons=true&theme=omni)
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ev3rton0&show_icons=true&count_private=true&hide_border=true&title_color=9fb2e0&icon_color=9fb2e0&text_color=FFF&bg_color=0d1117" alt="Paloma github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ev3rton0&layout=compact&hide_border=true&title_color=9fb2e0&text_color=FFF&bg_color=0d1117" />
+  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ev3rton0&layout=compact&theme=omni)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7e98d5&height=120&section=footer"/>
