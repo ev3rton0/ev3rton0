@@ -24,8 +24,8 @@ Discente do curso Ciência da Computação na Universidade Federal do Cariri (UF
 ## 📊 Github :
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ev3rton0&show_icons=true&count_private=true&hide_border=true&title_color=9fb2e0&icon_color=9fb2e0&text_color=FFF&bg_color=0d1117" alt="Paloma github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ev3rton0&layout=compact&hide_border=true&title_color=9fb2e0&text_color=FFF&bg_color=0d1117" />
+  <img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ev3rton0&show_icons=true&count_private=true&hide_border=true&title_color=9fb2e0&icon_color=9fb2e0&text_color=FFF&bg_color=0d1117" alt="Paloma github stats" /> 
+  <img width="80%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ev3rton0&layout=compact&hide_border=true&title_color=9fb2e0&text_color=FFF&bg_color=0d1117" />
   
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7e98d5&height=120&section=footer"/>
