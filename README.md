@@ -23,7 +23,6 @@ Discente do curso Ciência da Computação na Universidade Federal do Cariri (UF
 
 ## 📊 Github :
 
-<div align="center">  
   <img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ev3rton0&show_icons=true&count_private=true&hide_border=true&title_color=9fb2e0&icon_color=9fb2e0&text_color=FFF&bg_color=0d1117" alt="Paloma github stats" /> 
   <img width="80%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ev3rton0&layout=compact&hide_border=true&title_color=9fb2e0&text_color=FFF&bg_color=0d1117" />
   
